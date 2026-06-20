@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clouder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43edf0863f92b41a985636dadd4b3568d1ea2cb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("clouder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clouder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
